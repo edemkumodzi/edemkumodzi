@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Edem Kumodzi 👋
 
-<!--
-**edemkumodzi/edemkumodzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Craftsman**
 
-Here are some ideas to get you started:
+I approach software development as a craft—where every line of code is an opportunity to express intention clearly. I believe in building systems that are not just functional, but elegant, maintainable, and thoughtfully designed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- **System Architecture**: Designing scalable, maintainable systems and APIs
+- **Technical Advisory**: Guiding technical decisions and architectural choices
+- **Software Engineering**: Crafting clean code in Ruby, JavaScript, and C#
+
+## Philosophy
+
+The best solutions often emerge from thoughtful constraints. Whether it's removing unnecessary code or designing elegant APIs, I'm always seeking clarity and purpose in technical decisions.
+
+## Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/edemkumodzi)
+- 📧 [Email](mailto:hello@edemkumodzi.com)
